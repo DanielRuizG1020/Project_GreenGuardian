@@ -8,7 +8,7 @@
 
 **Green Guardian** es un sistema de control automático para invernaderos, diseñado para monitorear y mantener las condiciones óptimas para el crecimiento de las plantas. Utiliza varios sensores y actuadores para controlar la temperatura, humedad del aire y del suelo, luminosidad, nivel de agua del tanque, y tiene un sistema de control de acceso.
 
-##Hardware Requerido
+## Hardware Requerido
 - **Microcontrolador Raspberry Pi Pico W
 - **Sensores de temperatura y humedad del aire
 - **Sensores de humedad del suelo
