@@ -23,3 +23,5 @@
 - **LED de Alerta de Tanque:** Indica cuando el tanque está vacío.
 - **Buzzer de Control de Acceso:** Alerta de accesos no autorizados.
 
+
+![Diagrama de bloques](DIAGRAMA DE BLOQUES.jpg)
