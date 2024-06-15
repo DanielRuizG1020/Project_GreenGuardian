@@ -24,4 +24,4 @@
 - **Buzzer de Control de Acceso:** Alerta de accesos no autorizados.
 
 
-![Diagrama de bloques](DIAGRAMA DE BLOQUES.jpg)
+![Diagrama de bloques](diagrama.jpg)
